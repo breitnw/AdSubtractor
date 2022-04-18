@@ -3,4 +3,4 @@ An Apple Script meant to be used with Spotify Free on Mac. If you run it while l
 
 You can choose to run the .scpt file from the Mac's Script Editor or directly launch the application from the .app file. The .app file is more conventient to run than the script, and should automatically close when you quit the Spotify application. If you want to make tweaks to the script (e.g. changing the time between loop iterations, etc.), you should run the script from the .scpt file. 
 
-NOTE: On more recent versions of MacOS, running this application may lead to heavy CPU usage by the process `runningboardd`. Be aware of this if you choose to use it.
+NOTE: On more recent versions of MacOS, running this application may lead to heavy CPU usage by the `runningboardd` process. Be aware of this if you choose to use it.
